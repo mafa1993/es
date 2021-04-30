@@ -1,0 +1,10 @@
+{
+	    "name": "zr_mail/elasticsearch",
+		    "minimum-stability": "dev",
+			    "require": {},
+				    "autoload":{
+						        "psr-4":{
+									            "zr_mail\\elasticsearch\\":"src"
+												        }
+														    }
+}
